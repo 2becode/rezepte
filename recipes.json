@@ -1,63 +1,345 @@
 [
   {
-    "id": "carbonara",
-    "name": "Spaghetti Carbonara",
-    "emoji": "🍝",
+    "id": "skyr-beeren-overnight-oats",
+    "name": "Skyr-Beeren Overnight Oats",
+    "emoji": "🥣",
     "servings": 2,
-    "time": "20 Min",
-    "calories": 680,
-    "macros": { "protein": 28, "carbs": 72, "fat": 28, "fiber": 3 },
+    "time": "10 Min + Kühlzeit",
+    "calories": 430,
+    "macros": { "protein": 36, "carbs": 52, "fat": 8, "fiber": 9 },
     "ingredients": [
-      { "amount": 200, "unit": "g",   "name": "Spaghetti" },
-      { "amount": 100, "unit": "g",   "name": "Pancetta / Guanciale" },
-      { "amount": 2,   "unit": "Stk", "name": "Eier (ganz)" },
-      { "amount": 1,   "unit": "Stk", "name": "Eigelb" },
-      { "amount": 50,  "unit": "g",   "name": "Pecorino Romano, gerieben" },
-      { "amount": 30,  "unit": "g",   "name": "Parmesan, gerieben" },
-      { "amount": 2,   "unit": "g",   "name": "Schwarzer Pfeffer, gemahlen" },
-      { "amount": 10,  "unit": "g",   "name": "Salz (Nudelwasser)" }
+      { "amount": 100, "unit": "g", "name": "Haferflocken" },
+      { "amount": 400, "unit": "g", "name": "Skyr natur" },
+      { "amount": 200, "unit": "ml", "name": "Milch 1,5 Prozent" },
+      { "amount": 200, "unit": "g", "name": "Beeren, tiefgekühlt oder frisch" },
+      { "amount": 20, "unit": "g", "name": "Chiasamen" },
+      { "amount": 20, "unit": "g", "name": "Honig" },
+      { "amount": 1, "unit": "TL", "name": "Zimt" }
     ],
     "steps": [
-      "Großen Topf mit 3 L Wasser aufkochen, 10 g Salz hinzufügen.",
-      "Pancetta in 1 cm Streifen schneiden. In Pfanne bei mittlerer Hitze ohne Öl ca. 5 Min knusprig braten. Pfanne vom Herd nehmen.",
-      "Eier, Eigelb, Pecorino und Parmesan in einer Schüssel verquirlen. Reichlich Pfeffer hinzufügen.",
-      "Spaghetti al dente kochen (1 Min weniger als Packungsangabe). 150 ml Nudelwasser abschöpfen und aufbewahren!",
-      "Spaghetti direkt in die Pancetta-Pfanne geben (Herd AUS). 50 ml Nudelwasser zugeben und mit einer Zange schwenken.",
-      "Pfanne kurz abkühlen lassen – wichtig, damit das Ei nicht stockt! Dann Ei-Käse-Mischung eingießen und zügig vermischen.",
-      "Nudelwasser esslöffelweise zugeben bis die Sauce cremig glänzt. Sofort mit extra Pecorino und Pfeffer servieren."
+      "Haferflocken, Skyr, Milch, Chiasamen, Honig und Zimt in einer Schüssel gründlich verrühren.",
+      "Beeren unterheben oder oben auflegen.",
+      "Auf zwei Gläser oder Schalen verteilen und mindestens 2 Stunden, besser über Nacht, kalt stellen.",
+      "Vor dem Essen einmal umrühren. Falls es zu fest ist, etwas Milch ergänzen."
     ]
   },
   {
-    "id": "teriyaki",
-    "name": "Teriyaki Chicken Bowl",
-    "emoji": "🍗",
+    "id": "huettenkaese-ei-toast",
+    "name": "Hüttenkäse-Ei-Toast",
+    "emoji": "🍳",
     "servings": 2,
-    "time": "30 Min",
-    "calories": 520,
-    "macros": { "protein": 42, "carbs": 58, "fat": 10, "fiber": 4 },
+    "time": "15 Min",
+    "calories": 460,
+    "macros": { "protein": 38, "carbs": 38, "fat": 17, "fiber": 6 },
     "ingredients": [
-      { "amount": 300, "unit": "g",    "name": "Hähnchenbrustfilet" },
-      { "amount": 160, "unit": "g",    "name": "Jasminreis (roh)" },
-      { "amount": 150, "unit": "g",    "name": "Brokkoli" },
-      { "amount": 120, "unit": "g",    "name": "Karotte" },
-      { "amount": 45,  "unit": "ml",   "name": "Sojasoße" },
-      { "amount": 15,  "unit": "ml",   "name": "Honig" },
-      { "amount": 5,   "unit": "ml",   "name": "Sesamöl" },
-      { "amount": 5,   "unit": "g",    "name": "Speisestärke" },
-      { "amount": 2,   "unit": "Zehe", "name": "Knoblauch" },
-      { "amount": 10,  "unit": "g",    "name": "Ingwer, frisch gerieben" },
-      { "amount": 5,   "unit": "g",    "name": "Sesamsamen" },
-      { "amount": 5,   "unit": "ml",   "name": "Pflanzenöl (zum Braten)" }
+      { "amount": 4, "unit": "Scheibe", "name": "Vollkorntoast" },
+      { "amount": 4, "unit": "Stk", "name": "Eier" },
+      { "amount": 200, "unit": "g", "name": "Hüttenkäse" },
+      { "amount": 150, "unit": "g", "name": "Tomaten" },
+      { "amount": 50, "unit": "g", "name": "Rucola" },
+      { "amount": 5, "unit": "ml", "name": "Olivenöl" },
+      { "amount": 1, "unit": "Prise", "name": "Salz und Pfeffer" }
     ],
     "steps": [
-      "Reis nach Packungsangabe kochen (ca. 15 Min, Verhältnis Reis:Wasser = 1:1,5).",
-      "Teriyaki-Sauce anrühren: Sojasoße, Honig, Sesamöl, Stärke, gepressten Knoblauch und Ingwer gut verquirlen.",
-      "Hähnchen in mundgerechte Würfel schneiden (ca. 3 cm). Mit Pfeffer würzen.",
-      "Brokkoli in kleine Röschen teilen. Karotte schräg in dünne Scheiben schneiden (ca. 3 mm).",
-      "Pflanzenöl in Pfanne oder Wok bei hoher Hitze erhitzen. Hähnchen 5–6 Min braten bis goldbraun.",
-      "Karotte zugeben, 2 Min mitbraten. Brokkoli dazu, nochmal 2 Min unter Rühren braten.",
-      "Teriyaki-Sauce eingießen, alles gut durchschwenken. Bei mittlerer Hitze 2 Min köcheln bis die Sauce eindickt.",
-      "Reis in Bowls füllen, Hähnchen-Gemüse-Mix darüber anrichten. Mit Sesamsamen bestreuen."
+      "Toast rösten und Tomaten in Scheiben schneiden.",
+      "Eier in einer beschichteten Pfanne mit wenig Olivenöl als Rührei oder Spiegelei zubereiten.",
+      "Toast mit Hüttenkäse bestreichen, Tomaten und Ei darauflegen.",
+      "Mit Rucola, Salz und Pfeffer servieren."
+    ]
+  },
+  {
+    "id": "protein-pancakes-quark",
+    "name": "Quark Protein Pancakes",
+    "emoji": "🥞",
+    "servings": 2,
+    "time": "20 Min",
+    "calories": 490,
+    "macros": { "protein": 42, "carbs": 48, "fat": 14, "fiber": 6 },
+    "ingredients": [
+      { "amount": 250, "unit": "g", "name": "Magerquark" },
+      { "amount": 80, "unit": "g", "name": "Haferflocken" },
+      { "amount": 3, "unit": "Stk", "name": "Eier" },
+      { "amount": 100, "unit": "ml", "name": "Milch 1,5 Prozent" },
+      { "amount": 1, "unit": "TL", "name": "Backpulver" },
+      { "amount": 150, "unit": "g", "name": "Beeren" },
+      { "amount": 10, "unit": "g", "name": "Ahornsirup oder Honig" },
+      { "amount": 5, "unit": "ml", "name": "Rapsöl zum Ausbacken" }
+    ],
+    "steps": [
+      "Quark, Haferflocken, Eier, Milch und Backpulver zu einem dickflüssigen Teig mixen.",
+      "Eine beschichtete Pfanne leicht mit Öl einreiben und auf mittlere Hitze stellen.",
+      "Aus dem Teig kleine Pancakes backen, pro Seite etwa 2 Minuten.",
+      "Mit Beeren und wenig Ahornsirup oder Honig servieren."
+    ]
+  },
+  {
+    "id": "lachs-frischkaese-bagel",
+    "name": "Lachs-Frischkäse Bagel",
+    "emoji": "🥯",
+    "servings": 2,
+    "time": "10 Min",
+    "calories": 480,
+    "macros": { "protein": 34, "carbs": 48, "fat": 17, "fiber": 5 },
+    "ingredients": [
+      { "amount": 2, "unit": "Stk", "name": "Vollkornbagel" },
+      { "amount": 150, "unit": "g", "name": "Räucherlachs" },
+      { "amount": 120, "unit": "g", "name": "Frischkäse light" },
+      { "amount": 100, "unit": "g", "name": "Gurke" },
+      { "amount": 20, "unit": "g", "name": "Rucola" },
+      { "amount": 10, "unit": "ml", "name": "Zitronensaft" },
+      { "amount": 1, "unit": "Prise", "name": "Pfeffer" }
+    ],
+    "steps": [
+      "Bagel halbieren und kurz toasten.",
+      "Frischkäse mit Zitronensaft und Pfeffer verrühren.",
+      "Gurke in dünne Scheiben schneiden.",
+      "Bagel mit Frischkäse bestreichen, mit Rucola, Gurke und Räucherlachs belegen und direkt servieren."
+    ]
+  },
+  {
+    "id": "rote-linsen-bolognese",
+    "name": "Rote-Linsen-Bolognese mit Vollkornpasta",
+    "emoji": "🍝",
+    "servings": 2,
+    "time": "30 Min",
+    "calories": 690,
+    "macros": { "protein": 38, "carbs": 96, "fat": 13, "fiber": 20 },
+    "ingredients": [
+      { "amount": 160, "unit": "g", "name": "Vollkornpasta, roh" },
+      { "amount": 120, "unit": "g", "name": "Rote Linsen, trocken" },
+      { "amount": 400, "unit": "g", "name": "Gehackte Tomaten" },
+      { "amount": 1, "unit": "Stk", "name": "Zwiebel" },
+      { "amount": 2, "unit": "Zehe", "name": "Knoblauch" },
+      { "amount": 150, "unit": "g", "name": "Karotte" },
+      { "amount": 10, "unit": "ml", "name": "Olivenöl" },
+      { "amount": 20, "unit": "g", "name": "Parmesan, gerieben" },
+      { "amount": 1, "unit": "TL", "name": "Italienische Kräuter" },
+      { "amount": 1, "unit": "Prise", "name": "Salz und Pfeffer" }
+    ],
+    "steps": [
+      "Zwiebel, Knoblauch und Karotte fein würfeln.",
+      "Olivenöl in einem Topf erhitzen und das Gemüse 3 Minuten anschwitzen.",
+      "Linsen, gehackte Tomaten, Kräuter und 250 ml Wasser zugeben. 15 bis 18 Minuten köcheln lassen, bis die Linsen weich sind.",
+      "Währenddessen Pasta al dente kochen.",
+      "Sauce mit Salz und Pfeffer abschmecken, mit Pasta mischen und mit Parmesan servieren."
+    ]
+  },
+  {
+    "id": "kichererbsen-spinat-curry",
+    "name": "Kichererbsen-Spinat-Curry mit Reis",
+    "emoji": "🍛",
+    "servings": 2,
+    "time": "25 Min",
+    "calories": 720,
+    "macros": { "protein": 31, "carbs": 94, "fat": 22, "fiber": 17 },
+    "ingredients": [
+      { "amount": 140, "unit": "g", "name": "Basmatireis, roh" },
+      { "amount": 240, "unit": "g", "name": "Kichererbsen, abgetropft" },
+      { "amount": 200, "unit": "g", "name": "Blattspinat, tiefgekühlt" },
+      { "amount": 250, "unit": "ml", "name": "Kokosmilch light" },
+      { "amount": 200, "unit": "g", "name": "Passierte Tomaten" },
+      { "amount": 1, "unit": "Stk", "name": "Zwiebel" },
+      { "amount": 2, "unit": "Zehe", "name": "Knoblauch" },
+      { "amount": 15, "unit": "g", "name": "Currypaste oder Currypulver" },
+      { "amount": 10, "unit": "ml", "name": "Rapsöl" },
+      { "amount": 150, "unit": "g", "name": "Skyr als Topping" }
+    ],
+    "steps": [
+      "Reis nach Packungsangabe kochen.",
+      "Zwiebel und Knoblauch würfeln und in Rapsöl 2 bis 3 Minuten anbraten.",
+      "Currypaste kurz mitrösten, dann Kichererbsen, Spinat, Kokosmilch und passierte Tomaten zugeben.",
+      "Alles 10 bis 12 Minuten köcheln lassen und abschmecken.",
+      "Curry mit Reis anrichten und je Portion einen Klecks Skyr daraufgeben."
+    ]
+  },
+  {
+    "id": "feta-bohnen-blech",
+    "name": "Feta-Bohnen-Blech mit Kartoffeln",
+    "emoji": "🫘",
+    "servings": 2,
+    "time": "35 Min",
+    "calories": 650,
+    "macros": { "protein": 35, "carbs": 72, "fat": 22, "fiber": 15 },
+    "ingredients": [
+      { "amount": 500, "unit": "g", "name": "Kartoffeln" },
+      { "amount": 240, "unit": "g", "name": "Weiße Bohnen, abgetropft" },
+      { "amount": 200, "unit": "g", "name": "Cherrytomaten" },
+      { "amount": 200, "unit": "g", "name": "Zucchini" },
+      { "amount": 150, "unit": "g", "name": "Feta light" },
+      { "amount": 10, "unit": "ml", "name": "Olivenöl" },
+      { "amount": 1, "unit": "TL", "name": "Paprikapulver" },
+      { "amount": 1, "unit": "TL", "name": "Oregano" },
+      { "amount": 1, "unit": "Prise", "name": "Salz und Pfeffer" }
+    ],
+    "steps": [
+      "Backofen auf 210 Grad Ober-Unterhitze vorheizen.",
+      "Kartoffeln und Zucchini in mundgerechte Stücke schneiden.",
+      "Kartoffeln, Zucchini, Tomaten und Bohnen mit Öl, Paprika, Oregano, Salz und Pfeffer mischen.",
+      "Alles auf einem Blech verteilen und 25 Minuten backen.",
+      "Feta darüberbröseln und weitere 8 bis 10 Minuten backen."
+    ]
+  },
+  {
+    "id": "thunfisch-bohnen-salat",
+    "name": "Thunfisch-Bohnen-Salat mit Brot",
+    "emoji": "🥗",
+    "servings": 2,
+    "time": "15 Min",
+    "calories": 610,
+    "macros": { "protein": 50, "carbs": 58, "fat": 16, "fiber": 14 },
+    "ingredients": [
+      { "amount": 2, "unit": "Dose", "name": "Thunfisch im eigenen Saft, abgetropft" },
+      { "amount": 240, "unit": "g", "name": "Kidneybohnen, abgetropft" },
+      { "amount": 200, "unit": "g", "name": "Gurke" },
+      { "amount": 200, "unit": "g", "name": "Tomaten" },
+      { "amount": 80, "unit": "g", "name": "Rote Zwiebel" },
+      { "amount": 20, "unit": "ml", "name": "Zitronensaft" },
+      { "amount": 10, "unit": "ml", "name": "Olivenöl" },
+      { "amount": 120, "unit": "g", "name": "Vollkornbrot" },
+      { "amount": 1, "unit": "Prise", "name": "Salz und Pfeffer" }
+    ],
+    "steps": [
+      "Gurke, Tomaten und rote Zwiebel klein schneiden.",
+      "Thunfisch und Kidneybohnen abtropfen lassen.",
+      "Alles in einer Schüssel mit Zitronensaft, Olivenöl, Salz und Pfeffer mischen.",
+      "Mit Vollkornbrot servieren."
+    ]
+  },
+  {
+    "id": "lachs-couscous-bowl",
+    "name": "Lachs-Couscous-Bowl",
+    "emoji": "🐟",
+    "servings": 2,
+    "time": "25 Min",
+    "calories": 740,
+    "macros": { "protein": 45, "carbs": 70, "fat": 30, "fiber": 9 },
+    "ingredients": [
+      { "amount": 250, "unit": "g", "name": "Lachsfilet" },
+      { "amount": 140, "unit": "g", "name": "Couscous, roh" },
+      { "amount": 200, "unit": "g", "name": "Brokkoli" },
+      { "amount": 150, "unit": "g", "name": "Paprika" },
+      { "amount": 150, "unit": "g", "name": "Skyr natur" },
+      { "amount": 15, "unit": "ml", "name": "Zitronensaft" },
+      { "amount": 10, "unit": "ml", "name": "Olivenöl" },
+      { "amount": 1, "unit": "TL", "name": "Dill" },
+      { "amount": 1, "unit": "Prise", "name": "Salz und Pfeffer" }
+    ],
+    "steps": [
+      "Couscous mit heißem Wasser nach Packungsangabe quellen lassen.",
+      "Brokkoli in kleine Röschen teilen und 5 Minuten dämpfen oder kochen.",
+      "Lachs salzen, pfeffern und in einer Pfanne mit Olivenöl 3 bis 4 Minuten pro Seite braten.",
+      "Skyr mit Zitronensaft, Dill, Salz und Pfeffer verrühren.",
+      "Couscous, Gemüse und Lachs in Bowls anrichten und mit Skyr-Dip servieren."
+    ]
+  },
+  {
+    "id": "tofu-erdnuss-wok",
+    "name": "Tofu-Erdnuss-Wok mit Reisnudeln",
+    "emoji": "🥢",
+    "servings": 2,
+    "time": "25 Min",
+    "calories": 710,
+    "macros": { "protein": 36, "carbs": 82, "fat": 26, "fiber": 10 },
+    "ingredients": [
+      { "amount": 250, "unit": "g", "name": "Tofu natur" },
+      { "amount": 120, "unit": "g", "name": "Reisnudeln, trocken" },
+      { "amount": 300, "unit": "g", "name": "Wokgemüse, frisch oder tiefgekühlt" },
+      { "amount": 25, "unit": "g", "name": "Erdnussmus" },
+      { "amount": 30, "unit": "ml", "name": "Sojasoße" },
+      { "amount": 10, "unit": "ml", "name": "Limettensaft" },
+      { "amount": 10, "unit": "ml", "name": "Rapsöl" },
+      { "amount": 1, "unit": "Zehe", "name": "Knoblauch" },
+      { "amount": 5, "unit": "g", "name": "Ingwer" }
+    ],
+    "steps": [
+      "Reisnudeln nach Packungsangabe garen und abgießen.",
+      "Tofu trocken tupfen und würfeln.",
+      "Rapsöl in einer großen Pfanne erhitzen und Tofu 5 bis 6 Minuten goldbraun braten.",
+      "Gemüse, Knoblauch und Ingwer zugeben und 5 Minuten mitbraten.",
+      "Erdnussmus, Sojasoße, Limettensaft und 80 ml Wasser verrühren, in die Pfanne geben und mit den Nudeln mischen."
+    ]
+  },
+  {
+    "id": "halloumi-quinoa-salat",
+    "name": "Halloumi-Quinoa-Salat",
+    "emoji": "🧀",
+    "servings": 2,
+    "time": "25 Min",
+    "calories": 680,
+    "macros": { "protein": 34, "carbs": 62, "fat": 31, "fiber": 11 },
+    "ingredients": [
+      { "amount": 120, "unit": "g", "name": "Quinoa, roh" },
+      { "amount": 180, "unit": "g", "name": "Halloumi light" },
+      { "amount": 200, "unit": "g", "name": "Cherrytomaten" },
+      { "amount": 150, "unit": "g", "name": "Gurke" },
+      { "amount": 80, "unit": "g", "name": "Rucola" },
+      { "amount": 20, "unit": "ml", "name": "Zitronensaft" },
+      { "amount": 10, "unit": "ml", "name": "Olivenöl" },
+      { "amount": 1, "unit": "TL", "name": "Honig" },
+      { "amount": 1, "unit": "Prise", "name": "Salz und Pfeffer" }
+    ],
+    "steps": [
+      "Quinoa gründlich waschen und nach Packungsangabe garen.",
+      "Tomaten halbieren, Gurke würfeln und Rucola waschen.",
+      "Halloumi in Scheiben schneiden und in einer beschichteten Pfanne 2 Minuten pro Seite braten.",
+      "Zitronensaft, Olivenöl, Honig, Salz und Pfeffer zu einem Dressing verrühren.",
+      "Quinoa, Gemüse und Dressing mischen, Halloumi darauflegen und servieren."
+    ]
+  },
+  {
+    "id": "shakshuka-weisse-bohnen",
+    "name": "Shakshuka mit weißen Bohnen",
+    "emoji": "🍅",
+    "servings": 2,
+    "time": "25 Min",
+    "calories": 620,
+    "macros": { "protein": 38, "carbs": 58, "fat": 23, "fiber": 14 },
+    "ingredients": [
+      { "amount": 4, "unit": "Stk", "name": "Eier" },
+      { "amount": 240, "unit": "g", "name": "Weiße Bohnen, abgetropft" },
+      { "amount": 400, "unit": "g", "name": "Gehackte Tomaten" },
+      { "amount": 1, "unit": "Stk", "name": "Paprika" },
+      { "amount": 1, "unit": "Stk", "name": "Zwiebel" },
+      { "amount": 2, "unit": "Zehe", "name": "Knoblauch" },
+      { "amount": 10, "unit": "ml", "name": "Olivenöl" },
+      { "amount": 80, "unit": "g", "name": "Vollkornbrot" },
+      { "amount": 1, "unit": "TL", "name": "Paprikapulver" },
+      { "amount": 1, "unit": "Prise", "name": "Salz und Pfeffer" }
+    ],
+    "steps": [
+      "Zwiebel, Knoblauch und Paprika würfeln.",
+      "Olivenöl in einer großen Pfanne erhitzen und das Gemüse 4 Minuten anbraten.",
+      "Tomaten, Bohnen, Paprikapulver, Salz und Pfeffer zugeben und 8 Minuten köcheln lassen.",
+      "Vier Mulden formen, Eier hineinschlagen und mit Deckel 6 bis 8 Minuten stocken lassen.",
+      "Mit Vollkornbrot servieren."
+    ]
+  },
+  {
+    "id": "garnelen-avocado-wraps",
+    "name": "Garnelen-Avocado-Wraps",
+    "emoji": "🌯",
+    "servings": 2,
+    "time": "20 Min",
+    "calories": 670,
+    "macros": { "protein": 46, "carbs": 62, "fat": 24, "fiber": 10 },
+    "ingredients": [
+      { "amount": 4, "unit": "Stk", "name": "Vollkorn-Wraps" },
+      { "amount": 250, "unit": "g", "name": "Garnelen, geschält" },
+      { "amount": 150, "unit": "g", "name": "Skyr natur" },
+      { "amount": 1, "unit": "Stk", "name": "Avocado" },
+      { "amount": 150, "unit": "g", "name": "Salatmix" },
+      { "amount": 150, "unit": "g", "name": "Tomaten" },
+      { "amount": 15, "unit": "ml", "name": "Limettensaft" },
+      { "amount": 10, "unit": "ml", "name": "Rapsöl" },
+      { "amount": 1, "unit": "TL", "name": "Chiliflocken oder Paprikapulver" },
+      { "amount": 1, "unit": "Prise", "name": "Salz und Pfeffer" }
+    ],
+    "steps": [
+      "Garnelen trocken tupfen und mit Salz, Pfeffer und Chili oder Paprika würzen.",
+      "Rapsöl in einer Pfanne erhitzen und Garnelen 3 bis 4 Minuten braten, bis sie gar sind.",
+      "Skyr mit Limettensaft, Salz und Pfeffer verrühren.",
+      "Avocado und Tomaten schneiden.",
+      "Wraps kurz erwärmen, mit Skyr-Sauce bestreichen, mit Salat, Tomaten, Avocado und Garnelen füllen und einrollen."
     ]
   }
 ]

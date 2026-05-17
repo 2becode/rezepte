@@ -1,0 +1,63 @@
+[
+  {
+    "id": "carbonara",
+    "name": "Spaghetti Carbonara",
+    "emoji": "🍝",
+    "servings": 2,
+    "time": "20 Min",
+    "calories": 680,
+    "macros": { "protein": 28, "carbs": 72, "fat": 28, "fiber": 3 },
+    "ingredients": [
+      { "amount": 200, "unit": "g",   "name": "Spaghetti" },
+      { "amount": 100, "unit": "g",   "name": "Pancetta / Guanciale" },
+      { "amount": 2,   "unit": "Stk", "name": "Eier (ganz)" },
+      { "amount": 1,   "unit": "Stk", "name": "Eigelb" },
+      { "amount": 50,  "unit": "g",   "name": "Pecorino Romano, gerieben" },
+      { "amount": 30,  "unit": "g",   "name": "Parmesan, gerieben" },
+      { "amount": 2,   "unit": "g",   "name": "Schwarzer Pfeffer, gemahlen" },
+      { "amount": 10,  "unit": "g",   "name": "Salz (Nudelwasser)" }
+    ],
+    "steps": [
+      "Großen Topf mit 3 L Wasser aufkochen, 10 g Salz hinzufügen.",
+      "Pancetta in 1 cm Streifen schneiden. In Pfanne bei mittlerer Hitze ohne Öl ca. 5 Min knusprig braten. Pfanne vom Herd nehmen.",
+      "Eier, Eigelb, Pecorino und Parmesan in einer Schüssel verquirlen. Reichlich Pfeffer hinzufügen.",
+      "Spaghetti al dente kochen (1 Min weniger als Packungsangabe). 150 ml Nudelwasser abschöpfen und aufbewahren!",
+      "Spaghetti direkt in die Pancetta-Pfanne geben (Herd AUS). 50 ml Nudelwasser zugeben und mit einer Zange schwenken.",
+      "Pfanne kurz abkühlen lassen – wichtig, damit das Ei nicht stockt! Dann Ei-Käse-Mischung eingießen und zügig vermischen.",
+      "Nudelwasser esslöffelweise zugeben bis die Sauce cremig glänzt. Sofort mit extra Pecorino und Pfeffer servieren."
+    ]
+  },
+  {
+    "id": "teriyaki",
+    "name": "Teriyaki Chicken Bowl",
+    "emoji": "🍗",
+    "servings": 2,
+    "time": "30 Min",
+    "calories": 520,
+    "macros": { "protein": 42, "carbs": 58, "fat": 10, "fiber": 4 },
+    "ingredients": [
+      { "amount": 300, "unit": "g",    "name": "Hähnchenbrustfilet" },
+      { "amount": 160, "unit": "g",    "name": "Jasminreis (roh)" },
+      { "amount": 150, "unit": "g",    "name": "Brokkoli" },
+      { "amount": 120, "unit": "g",    "name": "Karotte" },
+      { "amount": 45,  "unit": "ml",   "name": "Sojasoße" },
+      { "amount": 15,  "unit": "ml",   "name": "Honig" },
+      { "amount": 5,   "unit": "ml",   "name": "Sesamöl" },
+      { "amount": 5,   "unit": "g",    "name": "Speisestärke" },
+      { "amount": 2,   "unit": "Zehe", "name": "Knoblauch" },
+      { "amount": 10,  "unit": "g",    "name": "Ingwer, frisch gerieben" },
+      { "amount": 5,   "unit": "g",    "name": "Sesamsamen" },
+      { "amount": 5,   "unit": "ml",   "name": "Pflanzenöl (zum Braten)" }
+    ],
+    "steps": [
+      "Reis nach Packungsangabe kochen (ca. 15 Min, Verhältnis Reis:Wasser = 1:1,5).",
+      "Teriyaki-Sauce anrühren: Sojasoße, Honig, Sesamöl, Stärke, gepressten Knoblauch und Ingwer gut verquirlen.",
+      "Hähnchen in mundgerechte Würfel schneiden (ca. 3 cm). Mit Pfeffer würzen.",
+      "Brokkoli in kleine Röschen teilen. Karotte schräg in dünne Scheiben schneiden (ca. 3 mm).",
+      "Pflanzenöl in Pfanne oder Wok bei hoher Hitze erhitzen. Hähnchen 5–6 Min braten bis goldbraun.",
+      "Karotte zugeben, 2 Min mitbraten. Brokkoli dazu, nochmal 2 Min unter Rühren braten.",
+      "Teriyaki-Sauce eingießen, alles gut durchschwenken. Bei mittlerer Hitze 2 Min köcheln bis die Sauce eindickt.",
+      "Reis in Bowls füllen, Hähnchen-Gemüse-Mix darüber anrichten. Mit Sesamsamen bestreuen."
+    ]
+  }
+]
