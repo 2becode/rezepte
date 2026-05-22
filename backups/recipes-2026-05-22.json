@@ -260,31 +260,30 @@
     ]
   },
   {
-    "id": "spargel-kartoffel-huettenkaese-bowl",
-    "name": "Spargel-Kartoffel-Bowl mit Hüttenkäse",
-    "emoji": "🥔",
+    "id": "halloumi-quinoa-salat",
+    "name": "Halloumi-Quinoa-Salat",
+    "emoji": "🧀",
     "servings": 2,
-    "time": "30 Min",
-    "calories": 640,
-    "macros": { "protein": 42, "carbs": 68, "fat": 20, "fiber": 11 },
+    "time": "25 Min",
+    "calories": 680,
+    "macros": { "protein": 34, "carbs": 62, "fat": 31, "fiber": 11 },
     "ingredients": [
-      { "amount": 500, "unit": "g", "name": "Kartoffeln" },
-      { "amount": 400, "unit": "g", "name": "Grüner Spargel" },
-      { "amount": 300, "unit": "g", "name": "Hüttenkäse" },
-      { "amount": 3, "unit": "Stk", "name": "Eier" },
-      { "amount": 100, "unit": "g", "name": "Radieschen" },
-      { "amount": 50, "unit": "g", "name": "Rucola" },
-      { "amount": 15, "unit": "ml", "name": "Zitronensaft" },
+      { "amount": 120, "unit": "g", "name": "Quinoa, roh" },
+      { "amount": 180, "unit": "g", "name": "Halloumi light" },
+      { "amount": 200, "unit": "g", "name": "Cherrytomaten" },
+      { "amount": 150, "unit": "g", "name": "Gurke" },
+      { "amount": 80, "unit": "g", "name": "Rucola" },
+      { "amount": 20, "unit": "ml", "name": "Zitronensaft" },
       { "amount": 10, "unit": "ml", "name": "Olivenöl" },
-      { "amount": 1, "unit": "TL", "name": "Senf" },
+      { "amount": 1, "unit": "TL", "name": "Honig" },
       { "amount": 1, "unit": "Prise", "name": "Salz und Pfeffer" }
     ],
     "steps": [
-      "Kartoffeln in mundgerechte Stücke schneiden und in Salzwasser 15 bis 18 Minuten gar kochen.",
-      "Eier in 8 bis 9 Minuten hart kochen, abschrecken und halbieren.",
-      "Spargelenden abschneiden, Spargel in Stücke schneiden und in einer Pfanne mit Olivenöl 6 bis 8 Minuten braten.",
-      "Radieschen in Scheiben schneiden. Zitronensaft, Senf, Salz und Pfeffer verrühren.",
-      "Kartoffeln, Spargel, Rucola und Radieschen mit dem Dressing mischen. Mit Hüttenkäse und Ei servieren."
+      "Quinoa gründlich waschen und nach Packungsangabe garen.",
+      "Tomaten halbieren, Gurke würfeln und Rucola waschen.",
+      "Halloumi in Scheiben schneiden und in einer beschichteten Pfanne 2 Minuten pro Seite braten.",
+      "Zitronensaft, Olivenöl, Honig, Salz und Pfeffer zu einem Dressing verrühren.",
+      "Quinoa, Gemüse und Dressing mischen, Halloumi darauflegen und servieren."
     ]
   },
   {
@@ -316,31 +315,31 @@
     ]
   },
   {
-    "id": "kabeljau-kartoffel-blech-skyr-dip",
-    "name": "Kabeljau-Kartoffel-Blech mit Skyr-Dip",
-    "emoji": "🐟",
+    "id": "garnelen-avocado-wraps",
+    "name": "Garnelen-Avocado-Wraps",
+    "emoji": "🌯",
     "servings": 2,
-    "time": "35 Min",
-    "calories": 660,
-    "macros": { "protein": 52, "carbs": 66, "fat": 17, "fiber": 10 },
+    "time": "20 Min",
+    "calories": 670,
+    "macros": { "protein": 46, "carbs": 62, "fat": 24, "fiber": 10 },
     "ingredients": [
-      { "amount": 350, "unit": "g", "name": "Kabeljaufilet, frisch oder tiefgekühlt" },
-      { "amount": 500, "unit": "g", "name": "Kartoffeln" },
-      { "amount": 250, "unit": "g", "name": "Brokkoli" },
-      { "amount": 150, "unit": "g", "name": "Paprika" },
+      { "amount": 4, "unit": "Stk", "name": "Vollkorn-Wraps" },
+      { "amount": 250, "unit": "g", "name": "Garnelen, geschält" },
       { "amount": 150, "unit": "g", "name": "Skyr natur" },
-      { "amount": 15, "unit": "ml", "name": "Zitronensaft" },
-      { "amount": 15, "unit": "ml", "name": "Olivenöl" },
-      { "amount": 1, "unit": "TL", "name": "Dill oder Petersilie" },
-      { "amount": 1, "unit": "TL", "name": "Paprikapulver" },
+      { "amount": 1, "unit": "Stk", "name": "Avocado" },
+      { "amount": 150, "unit": "g", "name": "Salatmix" },
+      { "amount": 150, "unit": "g", "name": "Tomaten" },
+      { "amount": 15, "unit": "ml", "name": "Limettensaft" },
+      { "amount": 10, "unit": "ml", "name": "Rapsöl" },
+      { "amount": 1, "unit": "TL", "name": "Chiliflocken oder Paprikapulver" },
       { "amount": 1, "unit": "Prise", "name": "Salz und Pfeffer" }
     ],
     "steps": [
-      "Backofen auf 210 Grad Ober-Unterhitze vorheizen.",
-      "Kartoffeln klein schneiden, mit 10 ml Olivenöl, Paprikapulver, Salz und Pfeffer mischen und 20 Minuten auf einem Blech backen.",
-      "Brokkoli in Röschen teilen und Paprika in Stücke schneiden. Zum Blech geben und weitere 8 Minuten backen.",
-      "Kabeljau trocken tupfen, salzen und pfeffern, mit 5 ml Olivenöl beträufeln und auf das Gemüse legen. 10 bis 12 Minuten backen, bis der Fisch gar ist.",
-      "Skyr mit Zitronensaft, Dill oder Petersilie, Salz und Pfeffer verrühren und zum Blech servieren."
+      "Garnelen trocken tupfen und mit Salz, Pfeffer und Chili oder Paprika würzen.",
+      "Rapsöl in einer Pfanne erhitzen und Garnelen 3 bis 4 Minuten braten, bis sie gar sind.",
+      "Skyr mit Limettensaft, Salz und Pfeffer verrühren.",
+      "Avocado und Tomaten schneiden.",
+      "Wraps kurz erwärmen, mit Skyr-Sauce bestreichen, mit Salat, Tomaten, Avocado und Garnelen füllen und einrollen."
     ]
   }
 ]
