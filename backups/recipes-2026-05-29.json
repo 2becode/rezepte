@@ -73,27 +73,27 @@
     ]
   },
   {
-    "id": "erdbeer-skyr-quark-bowl",
-    "name": "Erdbeer-Skyr-Quark-Bowl",
-    "emoji": "🍓",
+    "id": "lachs-frischkaese-bagel",
+    "name": "Lachs-Frischkäse Bagel",
+    "emoji": "🥯",
     "servings": 2,
     "time": "10 Min",
-    "calories": 420,
-    "macros": { "protein": 39, "carbs": 48, "fat": 8, "fiber": 8 },
+    "calories": 480,
+    "macros": { "protein": 34, "carbs": 48, "fat": 17, "fiber": 5 },
     "ingredients": [
-      { "amount": 300, "unit": "g", "name": "Skyr natur" },
-      { "amount": 250, "unit": "g", "name": "Magerquark" },
-      { "amount": 80, "unit": "g", "name": "Haferflocken" },
-      { "amount": 250, "unit": "g", "name": "Erdbeeren" },
-      { "amount": 20, "unit": "g", "name": "Leinsamen, geschrotet" },
-      { "amount": 15, "unit": "g", "name": "Honig" },
-      { "amount": 1, "unit": "TL", "name": "Zitronensaft" }
+      { "amount": 2, "unit": "Stk", "name": "Vollkornbagel" },
+      { "amount": 150, "unit": "g", "name": "Räucherlachs" },
+      { "amount": 120, "unit": "g", "name": "Frischkäse light" },
+      { "amount": 100, "unit": "g", "name": "Gurke" },
+      { "amount": 20, "unit": "g", "name": "Rucola" },
+      { "amount": 10, "unit": "ml", "name": "Zitronensaft" },
+      { "amount": 1, "unit": "Prise", "name": "Pfeffer" }
     ],
     "steps": [
-      "Skyr und Magerquark mit Honig und Zitronensaft glatt rühren.",
-      "Erdbeeren waschen, putzen und in Stücke schneiden.",
-      "Haferflocken und Leinsamen auf zwei Schalen verteilen.",
-      "Quarkcreme daraufgeben, mit Erdbeeren toppen und direkt essen oder bis zum Frühstück kalt stellen."
+      "Bagel halbieren und kurz toasten.",
+      "Frischkäse mit Zitronensaft und Pfeffer verrühren.",
+      "Gurke in dünne Scheiben schneiden.",
+      "Bagel mit Frischkäse bestreichen, mit Rucola, Gurke und Räucherlachs belegen und direkt servieren."
     ]
   },
   {
@@ -125,33 +125,31 @@
     ]
   },
   {
-    "id": "kichererbsen-tofu-spinat-curry",
-    "name": "Kichererbsen-Tofu-Spinat-Curry mit Reis",
+    "id": "kichererbsen-spinat-curry",
+    "name": "Kichererbsen-Spinat-Curry mit Reis",
     "emoji": "🍛",
     "servings": 2,
     "time": "25 Min",
-    "calories": 690,
-    "macros": { "protein": 43, "carbs": 82, "fat": 22, "fiber": 16 },
+    "calories": 720,
+    "macros": { "protein": 31, "carbs": 94, "fat": 22, "fiber": 17 },
     "ingredients": [
-      { "amount": 120, "unit": "g", "name": "Basmatireis, roh" },
+      { "amount": 140, "unit": "g", "name": "Basmatireis, roh" },
       { "amount": 240, "unit": "g", "name": "Kichererbsen, abgetropft" },
-      { "amount": 250, "unit": "g", "name": "Tofu natur" },
       { "amount": 200, "unit": "g", "name": "Blattspinat, tiefgekühlt" },
-      { "amount": 200, "unit": "ml", "name": "Kokosmilch light" },
+      { "amount": 250, "unit": "ml", "name": "Kokosmilch light" },
       { "amount": 200, "unit": "g", "name": "Passierte Tomaten" },
       { "amount": 1, "unit": "Stk", "name": "Zwiebel" },
       { "amount": 2, "unit": "Zehe", "name": "Knoblauch" },
-      { "amount": 2, "unit": "TL", "name": "Currypulver" },
+      { "amount": 15, "unit": "g", "name": "Currypaste oder Currypulver" },
       { "amount": 10, "unit": "ml", "name": "Rapsöl" },
-      { "amount": 100, "unit": "g", "name": "Skyr natur als Topping" }
+      { "amount": 150, "unit": "g", "name": "Skyr als Topping" }
     ],
     "steps": [
       "Reis nach Packungsangabe kochen.",
-      "Tofu trocken tupfen und würfeln. Zwiebel und Knoblauch fein würfeln.",
-      "Rapsöl in einer großen Pfanne erhitzen und Tofu 5 Minuten goldbraun anbraten.",
-      "Zwiebel, Knoblauch und Currypulver zugeben und 2 Minuten mitbraten.",
-      "Kichererbsen, Spinat, Kokosmilch und passierte Tomaten zugeben und 10 bis 12 Minuten köcheln lassen.",
-      "Mit Salz und Pfeffer abschmecken, mit Reis anrichten und je Portion einen Klecks Skyr daraufgeben."
+      "Zwiebel und Knoblauch würfeln und in Rapsöl 2 bis 3 Minuten anbraten.",
+      "Currypaste kurz mitrösten, dann Kichererbsen, Spinat, Kokosmilch und passierte Tomaten zugeben.",
+      "Alles 10 bis 12 Minuten köcheln lassen und abschmecken.",
+      "Curry mit Reis anrichten und je Portion einen Klecks Skyr daraufgeben."
     ]
   },
   {
@@ -235,31 +233,30 @@
     ]
   },
   {
-    "id": "kohlrabi-kartoffel-tofu-pfanne",
-    "name": "Kohlrabi-Kartoffel-Tofu-Pfanne mit Skyr-Dip",
-    "emoji": "🥬",
+    "id": "tofu-erdnuss-wok",
+    "name": "Tofu-Erdnuss-Wok mit Reisnudeln",
+    "emoji": "🥢",
     "servings": 2,
-    "time": "30 Min",
-    "calories": 660,
-    "macros": { "protein": 45, "carbs": 66, "fat": 22, "fiber": 14 },
+    "time": "25 Min",
+    "calories": 710,
+    "macros": { "protein": 36, "carbs": 82, "fat": 26, "fiber": 10 },
     "ingredients": [
-      { "amount": 450, "unit": "g", "name": "Kartoffeln" },
-      { "amount": 350, "unit": "g", "name": "Kohlrabi" },
-      { "amount": 250, "unit": "g", "name": "Räuchertofu" },
-      { "amount": 150, "unit": "g", "name": "Erbsen, tiefgekühlt" },
-      { "amount": 200, "unit": "g", "name": "Skyr natur" },
+      { "amount": 250, "unit": "g", "name": "Tofu natur" },
+      { "amount": 120, "unit": "g", "name": "Reisnudeln, trocken" },
+      { "amount": 300, "unit": "g", "name": "Wokgemüse, frisch oder tiefgekühlt" },
+      { "amount": 25, "unit": "g", "name": "Erdnussmus" },
+      { "amount": 30, "unit": "ml", "name": "Sojasoße" },
+      { "amount": 10, "unit": "ml", "name": "Limettensaft" },
       { "amount": 10, "unit": "ml", "name": "Rapsöl" },
-      { "amount": 15, "unit": "ml", "name": "Zitronensaft" },
-      { "amount": 1, "unit": "TL", "name": "Senf" },
-      { "amount": 1, "unit": "TL", "name": "Paprikapulver" },
-      { "amount": 1, "unit": "Prise", "name": "Salz und Pfeffer" }
+      { "amount": 1, "unit": "Zehe", "name": "Knoblauch" },
+      { "amount": 5, "unit": "g", "name": "Ingwer" }
     ],
     "steps": [
-      "Kartoffeln und Kohlrabi schälen und in kleine Würfel schneiden.",
-      "Kartoffeln in Salzwasser 8 Minuten vorkochen, Kohlrabi zugeben und weitere 5 Minuten kochen. Abgießen.",
-      "Räuchertofu würfeln und in einer großen Pfanne mit Rapsöl 4 bis 5 Minuten anbraten.",
-      "Kartoffeln, Kohlrabi, Erbsen, Paprikapulver, Salz und Pfeffer zugeben und 6 bis 8 Minuten braten.",
-      "Skyr mit Zitronensaft, Senf, Salz und Pfeffer verrühren und als Dip zur Pfanne servieren."
+      "Reisnudeln nach Packungsangabe garen und abgießen.",
+      "Tofu trocken tupfen und würfeln.",
+      "Rapsöl in einer großen Pfanne erhitzen und Tofu 5 bis 6 Minuten goldbraun braten.",
+      "Gemüse, Knoblauch und Ingwer zugeben und 5 Minuten mitbraten.",
+      "Erdnussmus, Sojasoße, Limettensaft und 80 ml Wasser verrühren, in die Pfanne geben und mit den Nudeln mischen."
     ]
   },
   {
